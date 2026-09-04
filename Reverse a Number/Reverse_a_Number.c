@@ -19,3 +19,4 @@ void main(){
     }
 
     printf("The reversed number is: %d", reverse);
+}
